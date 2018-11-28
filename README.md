@@ -113,7 +113,7 @@ In vscode, click `File->Preference->Settings->Extensions->Cortex-Debug-Configura
 
 ## *On Windows (Win10 64bit tested)*
 
-*Note: Only describe different part with linux version.
+*Note: Only describe different part with linux version.*
 
 ### Step 1. Install Visual Studio Code
 
