@@ -51,8 +51,8 @@ Develop nrf52840 with vscode
 
     ```bash
     # VSCODE Extension --- linux-arm-none-eabi-0.1.2
-    export GNU_TOOLS="/home/chengbang/.vscode/extensions/metalcode-eu.linux-arm-none-eabi-0.1.2/bin"
-    export GNU_INCLUDE_PATH="/home/chengbang/.vscode/extensions/metalcode-eu.linux-arm-none-eabi-0.1.2/lib/gcc/arm-none-eabi/7.3.1/include"
+    export GNU_TOOLS="~/.vscode/extensions/metalcode-eu.linux-arm-none-eabi-0.1.2/bin"
+    export GNU_INCLUDE_PATH="~/.vscode/extensions/metalcode-eu.linux-arm-none-eabi-0.1.2/lib/gcc/arm-none-eabi/7.3.1/include"
     ```
 
     *Note: The path needs to be modified based on your extension version.*
